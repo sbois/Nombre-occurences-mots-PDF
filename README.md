@@ -1,6 +1,7 @@
 
 Script d’analyse du nombre d'occurences des mots dans un PDF v1.0 - 16/11/2025
 ## Usage
+![Capture d’écran](illustration.png)
 
 Idéal pour l'analyse textuelle, la recherche documentaire, ou l'étude de corpus textuels.
 
